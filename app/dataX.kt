@@ -1,0 +1,1 @@
+class dataX : ArrayList<dataItemX>()
